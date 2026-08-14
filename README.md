@@ -24,4 +24,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prajj0201/DSA/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
