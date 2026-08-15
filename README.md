@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/prajj0201/DSA/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prajj0201/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/prajj0201/DSA/tree/master/0162-find-peak-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/prajj0201/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
