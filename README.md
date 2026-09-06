@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/prajj0201/DSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/prajj0201/DSA/tree/master/0162-find-peak-element) |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,14 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prajj0201/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -61,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/prajj0201/DSA/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
