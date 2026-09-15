@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prajj0201/DSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/prajj0201/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prajj0201/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/prajj0201/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prajj0201/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/prajj0201/DSA/tree/master/0162-find-peak-element) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prajj0201/DSA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/prajj0201/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
